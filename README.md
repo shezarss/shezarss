@@ -3,7 +3,7 @@
 
 <h3 align="left">:hammer_and_wrench: Languages and Tools</h3>
 
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="250" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 <p align="center">
   <a href="https://skillicons.dev">
